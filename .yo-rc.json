@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.hubstaff.jobs.jobupload"
+    },
+    "jhipsterVersion": "5.4.0",
+    "applicationType": "microservice",
+    "baseName": "JobUpload",
+    "packageName": "com.hubstaff.jobs.jobupload",
+    "packageFolder": "com/hubstaff/jobs/jobupload",
+    "serverPort": "8085",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmE3MDE4NzRkYTYzNDYzMGNmNjY3M2Y0NGZiMDlkNzRkYjk1OGNhYWU3NTM0YjI1YWEyZjVhY2IyMzJhYWVmZWE4MDIxNzc0YTVhMmE2NmNmMWVhNDYzNmM4MDhjOTFkZmMxZTc1ZDJiZmI5Njk5MGQzNzUxMzJhMGM0ZDUyYjc=",
+    "enableTranslation": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
